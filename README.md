@@ -1,2 +1,2 @@
-# DBMS-Project-ork
+# DBMS-Project
 Dbms project done using flask framework
